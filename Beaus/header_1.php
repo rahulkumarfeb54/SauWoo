@@ -31,7 +31,7 @@
                     <div class="mr-auto navtopmenu collapse navbar-collapse" >
                         <ul class="mr-auto navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="listing.php">menu 1</a>
+                                <a class="nav-link" href="transaction.php">Transactions</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="listing.php">menu 2</a>
